@@ -1,4 +1,17 @@
-[数据结构和算法](#算法) | [操作系统](#操作系统) | [网络](#网络) | [数据结构](#数据结构) | [数据库](#数据库) | [Java基础](#Java基础) | [Java进阶](#Java进阶) | [Web和Spring](#Web和Spring) | [分布式](#分布式) | [Hadoop](#Hadoop) | [工具](#工具) | [编码实践](#编码实践)
+[数据结构和算法](#算法) 
+[操作系统](#操作系统)
+[计算机网络](#计算机网络) 
+[Mysql和Redis](#Mysql和Redis) 
+[Java核心技术](#Java核心技术)
+[Java并发技术](#Java并发技术) 
+[深入理解JVM](#深入理解JVM)
+[Java网络编程与NIO](#Java网络编程与NIO)
+[JavaWeb技术世界](#JavaWeb技术世界) 
+[Spring与SpirngMVC](#Spring与SpirngMVC) 
+[分布式系统理论](#分布式系统理论)
+[分布式技术与实践](#分布式技术与实践)
+[Hadoop生态](#Hadoop生态)
+
 </br>
 ## 数据结构和算法
 
@@ -10,7 +23,7 @@
 
 ## Java核心技术
 
-## Java并发编程
+## Java并发技术
 
 ## 深入理解JVM
 
