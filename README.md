@@ -10,9 +10,10 @@
 
 ## 数据库 :floppy_disk:
 
-> [Mysql原理与实践总结] (https://github.com/h2pl/Java-Tutorial/blob/master/md/Mysql%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md)
+> [Mysql原理与实践总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/Mysql%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md)
 
-> [Redis原理与实践总结]https://github.com/h2pl/Java-Tutorial/blob/master/md/Redis%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md
+> [Redis原理与实践总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/Redis%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md)
+
 ## Java :couple:
 
 > [Java核心技术总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93.md)
@@ -32,15 +33,16 @@
 > [Spring与SpringMVC源码解析](https://github.com/h2pl/Java-Tutorial/blob/master/md/Spring%E4%B8%8ESpringMVC%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E6%80%BB%E7%BB%93.md)
 
 ## 分布式 :sweat_drops:
-> [分布式理论学习总结] (https://github.com/h2pl/Java-Tutorial/blob/master/md/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA%E6%80%BB%E7%BB%93.md)
 
-> [分布式技术学习总结] (https://github.com/h2pl/Java-Tutorial/blob/master/md/%E5%88%86%E5%B8%83%E5%BC%8F%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md)
+> [分布式理论学习总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA%E6%80%BB%E7%BB%93.md)
+
+> [分布式技术学习总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/%E5%88%86%E5%B8%83%E5%BC%8F%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md)
 
 ## 设计模式 :hammer:
 
 ## Hadoop :speak_no_evil:
 
-> [分布式技术学习总结] (https://github.com/h2pl/Java-Tutorial/blob/master/md/Hadoop%E7%94%9F%E6%80%81%E6%80%BB%E7%BB%93.md)
+> [Hadoop生态学习总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/Hadoop%E7%94%9F%E6%80%81%E6%80%BB%E7%BB%93.md)
 
 </br>
 
