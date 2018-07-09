@@ -4,13 +4,13 @@
 
 ## 算法 :pencil2:
 
-> [Mysql原理与实践总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/Mysql%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md)
+> [剑指offer算法总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/%E5%89%91%E6%8C%87offer.md)
 
 ## 操作系统 :computer:
 
 > [操作系统学习总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)
 
-> [Mysql原理与实践总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/Mysql%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md)
+> [Linux内核与基础命令学习总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/Linux%E5%86%85%E6%A0%B8%E4%B8%8E%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)
 
 ## 网络 :cloud:
 
@@ -47,6 +47,7 @@
 > [分布式技术学习总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/%E5%88%86%E5%B8%83%E5%BC%8F%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md)
 
 ## 设计模式 :hammer:
+> [设计模式学习总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)
 
 ## Hadoop :speak_no_evil:
 
