@@ -1,16 +1,41 @@
+## 声明
+
+**关于仓库**
+
+本仓库是笔者在准备 2018 年秋招复习过程中的学习总结，内容以Java后端的知识总结为主，其中大部分都是笔者根据自己的理解加上个人博客总结而来的。
+
+其中有少数内容可能会包含瞎XX说，语句不通顺，内容不全面等各方面问题，还请见谅。
+
+每篇文章都会有笔者更加详细的一系列博客可供参考，这些文章也被我发表在CSDN技术博客上，整理成博客专栏，欢迎查看━(*｀∀´*)ノ亻!
+
+具体内容请见我的CSDN技术博客：https://blog.csdn.net/a724888
+
+也可以来我个人技术小站逛逛：https://h2pl.github.io/
+
+**更多校招干货和技术文章请关注我的公众号：程序员江湖**
+
+**关于转载**
+
+转载的时候请注明一下出处就行啦。
+
+另外我这个仓库的格式模仿的是@CyC2018 大佬的仓库
+
+并且其中一篇LeetCode刷题指南也是fork这位大佬而来的。我只是自己刷了一遍然后稍微加了一些解析，站在大佬肩膀上。
+
+
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ |
 | :------: | :---------: | :-------: | :---------: | :---: | :---------:| :---------: | :---------: | :---------:|
 | 算法[:pencil2:](#算法-pencil2) | 操作系统[:computer:](#操作系统-computer)|网络[:cloud:](#网络-cloud) | 数据库[:floppy_disk:](#数据库-floppy_disk)| Java[:couple:](#Java-couple) |JavaWeb [:coffee:](#JavaWeb-coffee)| 分布式 [:sweat_drops:](#分布式-sweat_drops)| 设计模式[:hammer:](#设计模式-hammer)| Hadoop[:speak_no_evil:](#Hadoop-speak_no_evil)|
 
 ## 算法 :pencil2:
 
-> [Mysql原理与实践总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/Mysql%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md)
+> [剑指offer算法总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/%E5%89%91%E6%8C%87offer.md)
 
 ## 操作系统 :computer:
 
 > [操作系统学习总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)
 
-> [Mysql原理与实践总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/Mysql%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md)
+> [Linux内核与基础命令学习总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/Linux%E5%86%85%E6%A0%B8%E4%B8%8E%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)
 
 ## 网络 :cloud:
 
@@ -47,6 +72,7 @@
 > [分布式技术学习总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/%E5%88%86%E5%B8%83%E5%BC%8F%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md)
 
 ## 设计模式 :hammer:
+> [设计模式学习总结](https://github.com/h2pl/Java-Tutorial/blob/master/md/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)
 
 ## Hadoop :speak_no_evil:
 
@@ -54,13 +80,6 @@
 
 </br>
 
-## 后记
-
-**关于仓库**
-本仓库是笔者在准备 2018 年秋招复习过程中的学习总结，内容以Java后端的知识总结为主，每个部分都会有笔者更加详细的原创文章可供参考，欢迎查看。 
-
-**关于转载**
-本仓库内容使用到的资料都会在最后面的参考资料中给出引用链接，希望您在使用本仓库的内容时也能给出相应的引用链接。
 
 
 
